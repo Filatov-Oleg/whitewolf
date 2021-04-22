@@ -12,7 +12,7 @@ protocol BookingViewOutput : class{
 }
 
 protocol BookingModuleOutput: class{
-    //func makeCatalog()
+    
 }
 
 protocol BookingModuleInput: class{
