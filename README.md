@@ -4,6 +4,7 @@
 
 Экран меню (код представлен в папке Hookah_project/HookahProject/VIPER modules/Booking/).
 Пользователь может нажать на ячейку, и откроется подробное описание продукта.
+
 <img src="https://github.com/Filatov-Oleg/whitewolf/blob/master/Screenshots/menu_01.jpeg" width="220" height="400"/> ==>
 <img src="https://github.com/Filatov-Oleg/whitewolf/blob/master/Screenshots/menu_02.jpeg" width="220" height="400"/> ==>
 <img src="https://github.com/Filatov-Oleg/whitewolf/blob/master/Screenshots/menu_03.jpeg" width="220" height="400"/>
