@@ -19,3 +19,7 @@
 
 <img src="https://github.com/Filatov-Oleg/whitewolf/blob/master/Screenshots/changeScores_01.jpeg" width="220" height="400"/> ==>
 <img src="https://github.com/Filatov-Oleg/whitewolf/blob/master/Screenshots/changeScores_02.jpeg" width="220" height="400"/>
+
+<img src="https://github.com/Filatov-Oleg/whitewolf/blob/master/Screenshots/user_01.jpeg" width="220" height="400"/> ==>
+<img src="https://github.com/Filatov-Oleg/whitewolf/blob/master/Screenshots/user_01.jpeg" width="220" height="400"/> ==>
+<img src="https://github.com/Filatov-Oleg/whitewolf/blob/master/Screenshots/user_01.jpeg" width="220" height="400"/>
