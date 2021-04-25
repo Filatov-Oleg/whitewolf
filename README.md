@@ -14,4 +14,5 @@
 <img src="https://github.com/Filatov-Oleg/whitewolf/blob/master/Screenshots/tableReserve_01.jpeg" width="220" height="400"/> ==>
 <img src="https://github.com/Filatov-Oleg/whitewolf/blob/master/Screenshots/tableReserve_02.jpeg" width="220" height="400"/> ==>
 <img src="https://github.com/Filatov-Oleg/whitewolf/blob/master/Screenshots/tableReserve_03.jpeg" width="220" height="400"/> ==>
-<img src="https://github.com/Filatov-Oleg/whitewolf/blob/master/Screenshots/tableReserve_04.jpeg" width="220" height="400"/>
+<img src="https://github.com/Filatov-Oleg/whitewolf/blob/master/Screenshots/tableReserve_04.jpeg" width="220" height="400"/> ==>
+<img src="https://github.com/Filatov-Oleg/whitewolf/blob/master/Screenshots/tableReserve_05.jpeg" width="220" height="400"/>
