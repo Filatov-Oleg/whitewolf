@@ -39,8 +39,8 @@
 
 Перейдем к профилю посетителя. На экране расположена личная информация пользователя: фото, имя, номер карты и количество баллов. Изменить фото можно, нажав на фотографию. Далее посетитель может перейти в Instagram заведения, кликнув на иконку Instagram. Посетитель может узнать расположение заведения, нажав на кнопку "На карте", и ему будет предложено три приложения карт, в одно из которых он может перейти. Также для уточнения какой-либо информации посетитель может нажать на кнопку "Связаться с хостесом". 
 
-<img src="https://github.com/Filatov-Oleg/whitewolf/blob/master/Screenshots/user_04.jpeg" width="220" height="400"/> ==>
 <img src="https://github.com/Filatov-Oleg/whitewolf/blob/master/Screenshots/user_01.jpeg" width="220" height="400"/> ==>
+<img src="https://github.com/Filatov-Oleg/whitewolf/blob/master/Screenshots/user_04.jpeg" width="220" height="400"/> ==>
 <img src="https://github.com/Filatov-Oleg/whitewolf/blob/master/Screenshots/user_02.jpeg" width="220" height="400"/> ==>
-<img src="https://github.com/Filatov-Oleg/whitewolf/blob/master/Screenshots/user_03.jpeg" width="220" height="400"/> ==>
+<img src="https://github.com/Filatov-Oleg/whitewolf/blob/master/Screenshots/user_03.jpeg" width="220" height="400"/>
 
