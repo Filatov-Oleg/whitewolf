@@ -16,8 +16,15 @@
 <img src="https://github.com/Filatov-Oleg/whitewolf/blob/master/Screenshots/reserve_02.jpeg" width="220" height="400"/> ==>
 <img src="https://github.com/Filatov-Oleg/whitewolf/blob/master/Screenshots/reserve_03.jpeg" width="220" height="400"/>
 
+Экран профиль (код представлен в папке Hookah_project/HookahProject/VIPER modules/Profile/User/).
+Существуют два экрана профиля: для администратора и для посетитилей. 
+Рассмотрим профиль админстратора и его доступный функционал. 
+
 <img src="https://github.com/Filatov-Oleg/whitewolf/blob/master/Screenshots/admin_01.jpeg" width="220" height="400"/>
 
+Администратор может посмотреть запросы на бронь столика, нажав на кнопку "Таблица бронирования", и откроется новый экран с таблицей. 
+Код экрана таблицы бронирования представлен в папке Hookah_project/HookahProject/VIPER modules/Profile/User/.
+После открытия администратор видит ячейки с информацией о посетителе, который хочет забронировать столик. Администратор свайпов вправо может узнать подтвержденная бронь или нет. Если желтый цвет, то администратор нажимает на ячейку и может позвонить посетителю, а после свайпов вправо подтвердить бронирование и у ячейки будет зеленый цвет. Если бронирование отменилось или администратор хочет удалить информацию о старых бронированиях, то свайпов влево удаляет ячейку. 
 <img src="https://github.com/Filatov-Oleg/whitewolf/blob/master/Screenshots/tableReserve_01.jpeg" width="220" height="400"/> ==>
 <img src="https://github.com/Filatov-Oleg/whitewolf/blob/master/Screenshots/tableReserve_02.jpeg" width="220" height="400"/> ==>
 <img src="https://github.com/Filatov-Oleg/whitewolf/blob/master/Screenshots/tableReserve_03.jpeg" width="220" height="400"/> ==>
