@@ -32,7 +32,7 @@
 <img src="https://github.com/Filatov-Oleg/whitewolf/blob/master/Screenshots/tableReserve_04.jpeg" width="220" height="400"/> ==>
 <img src="https://github.com/Filatov-Oleg/whitewolf/blob/master/Screenshots/tableReserve_05.jpeg" width="220" height="400"/>
 
-Также администратор может изменить баллы на карте лояльности у посетителя. Для этого администратор нажимает на кнопку "Изменить баллы", и откроется экран для изменения баллов (код представлен в папке Hookah_project/HookahProject/VIPER modules/ChangeScores/). Введя номер карты и количество баллов администратор нажимает на кнопку обновить баллы и появлется подтверждение об изменении. 
+Также администратор может изменить баллы на карте лояльности у посетителя. Для этого администратор нажимает на кнопку "Изменить баллы", и откроется экран для изменения баллов (код представлен в папке Hookah_project/HookahProject/VIPER modules/ChangeScores/). Введя номер карты и количество баллов, администратор нажимает на кнопку обновить баллы и появлется подтверждение об изменении. 
 
 <img src="https://github.com/Filatov-Oleg/whitewolf/blob/master/Screenshots/changeScores_01.jpeg" width="220" height="400"/> ==>
 <img src="https://github.com/Filatov-Oleg/whitewolf/blob/master/Screenshots/changeScores_02.jpeg" width="220" height="400"/>
