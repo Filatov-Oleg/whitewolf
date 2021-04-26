@@ -1,6 +1,6 @@
 Приложение whitewolf предназначено для посетителей кальяной. После скачивания приложения пользователь проходит регистрацию и может посмотреть новостную ленту, информирующую об акциях, меню данного заведения и страничку профиля, а также забронировать столик.
 
-Далее представлены скриншоты части приложения, реализованые мной.
+Далее представлены скриншоты приложения, части которого реализованы мной.
 
 Экран меню (код представлен в папке Hookah_project/HookahProject/VIPER modules/Booking/).
 Пользователь может нажать на ячейку, и откроется подробное описание продукта.
@@ -37,6 +37,10 @@
 <img src="https://github.com/Filatov-Oleg/whitewolf/blob/master/Screenshots/changeScores_01.jpeg" width="220" height="400"/> ==>
 <img src="https://github.com/Filatov-Oleg/whitewolf/blob/master/Screenshots/changeScores_02.jpeg" width="220" height="400"/>
 
+Перейдем к профилю посетителя. На экране расположена личная информация пользователя: фото, имя, номер карты и количество баллов. Изменить фото можно, нажав на фотографию. Далее посетитель может перейти в Instagram заведения, кликнув на иконку Instagram. Посетитель может узнать расположение заведения, нажав на кнопку "На карте", и ему будет предложено три приложения карт, в одно из которых он может перейти. Также для уточнения какой-либо информации посетитель может нажать на кнопку "Связаться с хостесом". 
+
+<img src="https://github.com/Filatov-Oleg/whitewolf/blob/master/Screenshots/user_04.jpeg" width="220" height="400"/> ==>
 <img src="https://github.com/Filatov-Oleg/whitewolf/blob/master/Screenshots/user_01.jpeg" width="220" height="400"/> ==>
 <img src="https://github.com/Filatov-Oleg/whitewolf/blob/master/Screenshots/user_02.jpeg" width="220" height="400"/> ==>
-<img src="https://github.com/Filatov-Oleg/whitewolf/blob/master/Screenshots/user_03.jpeg" width="220" height="400"/>
+<img src="https://github.com/Filatov-Oleg/whitewolf/blob/master/Screenshots/user_03.jpeg" width="220" height="400"/> ==>
+
