@@ -9,6 +9,9 @@
 <img src="https://github.com/Filatov-Oleg/whitewolf/blob/master/Screenshots/menu_02.jpeg" width="220" height="400"/> ==>
 <img src="https://github.com/Filatov-Oleg/whitewolf/blob/master/Screenshots/menu_03.jpeg" width="220" height="400"/>
 
+Экран бронирования столика (код представлен в папке Hookah_project/HookahProject/VIPER modules/Reserve/).
+Пользователь может выбрать дату и время брони. Если пользователь выбирает дату или время раннее, чем за 45 минут, и нажмет кнопку "Запросить бронирование", то появится предупреждение, что не возможно забронировать. Если пользователь выберет корректную дату и время, то появится подтверждение о бронировании. 
+
 <img src="https://github.com/Filatov-Oleg/whitewolf/blob/master/Screenshots/reserve_01.jpeg" width="220" height="400"/> ==>
 <img src="https://github.com/Filatov-Oleg/whitewolf/blob/master/Screenshots/reserve_02.jpeg" width="220" height="400"/> ==>
 <img src="https://github.com/Filatov-Oleg/whitewolf/blob/master/Screenshots/reserve_03.jpeg" width="220" height="400"/>
