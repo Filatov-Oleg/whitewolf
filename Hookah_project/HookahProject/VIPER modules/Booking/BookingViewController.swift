@@ -24,27 +24,23 @@ final class BookingViewController: UIViewController {
         let view = UIView()
         view.addSubview(self.collectionView)
         self.setupCollectionView()
+        view.addSubview(self.activityIndicator)
         self.view = view
     }
     
     
     override func viewDidLoad() {
         super.viewDidLoad()
+        self.activityIndicator.startAnimating()
         self.output.viewDidLoad()
     }
     
     override func viewDidLayoutSubviews() {
+        super.viewDidLayoutSubviews()
+        self.activityIndicator.center = self.view.center
         self.collectionView.frame = CGRect(x: 8, y: 0, width: self.view.bounds.width-16, height: self.view.bounds.height)
     }
     
-    override func viewDidAppear(_ animated: Bool) {
-        super.viewDidAppear(animated)
-        self.view.addSubview(activityIndicator)
-        self.activityIndicator.center = self.view.center
-        if self.viewModels.isEmpty {
-            self.activityIndicator.startAnimating()
-        }
-    }
 }
 
 extension BookingViewController: BookingViewInput{
