@@ -88,8 +88,5 @@ private extension BookingViewController {
         self.collectionView.register(BookingViewCell<BookingCardView>.self)
         self.collectionView.backgroundColor = .black
         self.collectionView.showsVerticalScrollIndicator = false
-        self.collectionView.register(UINib(nibName: "OfferHeaderCell", bundle: nil), forSupplementaryViewOfKind:UICollectionView.elementKindSectionHeader, withReuseIdentifier: "OfferHeaderCell")
-        self.collectionView.register(UINib(nibName: "APRHeaderCell", bundle: nil), forSupplementaryViewOfKind:UICollectionView.elementKindSectionHeader, withReuseIdentifier: "APRHeaderCell")
-        //self.collectionView.contentInset = UIEdgeInsets(top: 0, left: 8, bottom: 0, right: 8)
     }
 }
